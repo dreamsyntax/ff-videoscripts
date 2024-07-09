@@ -15,7 +15,8 @@ Congratulations. In the future now you just copy/move your video you want to sha
 All scripts scan the current folder, and batch convert / output as an mp4. The " - mkv" just means thats what files it will look/convert from.
 
 "720x480.sh" takes in any mp4, and makes 720x480 optimized mp4.
-"1920x1080 - mkv.sh" takes in any mkv, and makes 1920x1080 optimzed mp4.
+
+"1920x1080 - mkv.sh" takes in any mkv, and makes 1920x1080 optimized mp4.
 
 All scripts are just modified version of this:
 ```bash
@@ -31,4 +32,4 @@ Changing out the `scale=720:480` to whatever resolution you want to output.
 
 ### How to video
 
-YouTube Link or something
+[YouTube Video: https://youtu.be/oykj6-WEKKc](https://youtu.be/oykj6-WEKKc)
